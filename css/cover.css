@@ -1,15 +1,14 @@
-/*
- * Globals
- */
-
-   .splash-img{
-    position: relative;
-    bottom: 100px;
+ .splash-img{
      border-radius: 100%;
      width: 50%;
-
+     position: relative;
+     bottom: 100px;
    }
 
+     .splash-img{
+       border-radius: 100%;
+       width: 50%;
+     }
 
  .bd-placeholder-img {
    font-size: 1.125rem;
@@ -45,7 +44,7 @@
    .splash-img{
      width: 20%;
      position: relative;
-     bottom: 450px;
+     bottom: 300px;
 
 
    }
